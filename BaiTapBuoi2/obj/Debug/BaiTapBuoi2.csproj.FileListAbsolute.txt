@@ -1,0 +1,7 @@
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.exe.config
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.exe
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.pdb
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.csproj.AssemblyReference.cache
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.csproj.CoreCompileInputs.cache
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.exe
+C:\Users\seven\source\repos\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.pdb
